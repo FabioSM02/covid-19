@@ -20,14 +20,20 @@
 - JavaScript
 - ReactJS
 
+### API
+
+- This is the used API
+
+```
+https://coronavirus-19-api.herokuapp.com/countries
+```
+
 ### Learned Concepts
 
 - Styled-Components
-
 - ``````
   api.get
   ``````
-
 - Overrides
 - Components
 
@@ -53,7 +59,7 @@ yarn start
 
 - The project will open in **localhost:3000**
 
-
+<br/><br/><br/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
