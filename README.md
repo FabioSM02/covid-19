@@ -31,9 +31,9 @@ https://coronavirus-19-api.herokuapp.com/countries
 ### Learned Concepts
 
 - Styled-Components
-- ``````
+``````
   api.get
-  ``````
+``````
 - Overrides
 - Components
 
