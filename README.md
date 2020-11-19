@@ -5,13 +5,15 @@
 - Get data from countries about covid-19 in real time around the world.
 
 ### Project in browser
-
-<img src="https://github.com/FabioSM02/covid-19/blob/main/src/assets/images/Screen.PNG" alt="project-browser" />
+<p align="center">
+  <img src="https://github.com/FabioSM02/covid-19/blob/main/src/assets/images/Screen.PNG" alt="project-browser" />
+</p>
 
 ### Project responsive in browser
 
-<img src="https://github.com/FabioSM02/covid-19/blob/main/src/assets/images/Screen-Mobile.PNG" alt="project-mobile"/>
-
+<p align="center">
+  <img src="https://github.com/FabioSM02/covid-19/blob/main/src/assets/images/Screen-Mobile.PNG" alt="project-mobile"/>
+</p>
 
 ### Technologies used
 
